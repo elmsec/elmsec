@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://elma.dev](https://elma.dev)
 
-- 📫 How to reach me: `echo '💔🥊🔮🦠🔫💔🆘🐤🖤😔D💔⏱' | sed 'y/⏱💔🔫🐤🦠🆘🖤😔🥊D🔮/ve@mpla.ydu/'`
+- 📫 You can reach me via email at `echo '💔🥊🔮🦠🔫💔🆘🐤🖤😔D💔⏱' | sed 'y/⏱💔🔫🐤🦠🆘🖤😔🥊D🔮/ve@mpla.ydu/'`
 
 - 📄 Know about my experiences: [https://elma.dev/about](https://elma.dev/about)
 
