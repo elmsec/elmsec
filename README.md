@@ -1,7 +1,3 @@
-<h1 align="center">👋 Hi, I'm Eyüp Can ELMA</h1>
-
-
-   
    
 - 🔭 I’m currently working on **a customer service software**
 
